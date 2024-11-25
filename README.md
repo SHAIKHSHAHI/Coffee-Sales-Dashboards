@@ -1,4 +1,6 @@
 # Power BI Dashboard:Coffee Sales Analysis dashboard
+![Dashboard Screenshot](
+https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
 
 ## Objective
 The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
