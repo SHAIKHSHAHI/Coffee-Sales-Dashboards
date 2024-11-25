@@ -31,17 +31,20 @@ This analysis addresses the following critical business questions:
    
 - ### Hourly Sales
 ![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/74dafa57967950212b7fc5a0ef6514f4b5eee1b3/hourly.png)
-- **explaination :** Like from the above dashboard it is clear that mostly sales are high in the morning times and in the evening it is .
-  it may be beacause the most of the people visit to the caffe are working people and wanna have brekfast its great for us.
- -  **Suggestion :**
- -   we shhould provide some evening offers so that it will help customers .
- -   There is a need to eaxmine and have detail analysis of consumers so that we will understand what type of people come to our cafe to understand whats going wrong.
-
+- **explaination :**
+-  Like from the above dashboard it is clear that mostly sales are high in the morning times and in the evening it is .
+-  it may be beacause the most of the people visit to the caffe are working people and wanna have brekfast its great for us.
+   
+ 
 
 - ### Monthly Sales
 - ### Key Insights
 ![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/eabdf6c4093e6b3225e15b315f369eefcc9e8102/Monthly%20sales.png)
 
+- ###  Additional Suggestions 
+- As clear that sales has increased within six months and also shown what are those 15 products which has made this possible and also also shown what are those 5 products that are not generating any revenue so we can discard those 5 low generating products and safely can increase the quatity of high generating products .
+- we shhould provide some evening offers so that it will help customers .
+- There is a need to eaxmine and have detail analysis of consumers so that we will understand what type of people come to our cafe to understand whats going wrong.
 
 
 
