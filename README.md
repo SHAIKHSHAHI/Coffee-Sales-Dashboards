@@ -3,8 +3,8 @@
 https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
 
 ## Objective
-The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
-The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
+- The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
+- The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
 ##contents 
 - ### Monthly Sales
 - ### Key Insights
