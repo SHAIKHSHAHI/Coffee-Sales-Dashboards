@@ -5,6 +5,13 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 ## Objective
 - The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
 - The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
+## Description
+
+- This project leverages Power BI to create an interactive sales analysis dashboard, providing critical insights into the business's sales patterns.
+-  The dashboard explores hourly sales trends to identify peak times of customer activity, helping to optimize staffing and marketing efforts.
+-  It also examines monthly sales performance, uncovering significant fluctuations in revenue across different months, particularly highlighting peak sales periods. The analysis of store locations allows for a deeper understanding of regional performance, identifying top-performing stores and areas requiring improvements.
+-  Key business questions such as sales variation by day of the week, total revenue per location, and peak sales times are addressed through visualizations, enabling more informed decision-making. The project demonstrates how data-driven insights can empower businesses to streamline operations, enhance customer engagement, and ultimately boost sales revenue.
+-  
 ## Table of Contents
 -  [conclusion](#conclusion)
 -  [ Objective ](#Objective)
