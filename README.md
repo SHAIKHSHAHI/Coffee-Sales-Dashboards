@@ -42,7 +42,7 @@ This analysis addresses the following critical business questions:
 ![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/eabdf6c4093e6b3225e15b315f369eefcc9e8102/Monthly%20sales.png)
 
 - ###  Additional Suggestions 
-- As clear that sales has increased within six months and also shown what are those 15 products which has made this possible and also also shown what are those 5 products that are not generating any revenue so we can discard those 5 low generating products and safely can increase the quatity of high generating products .
+- As clear that sales has increased within six months and also shown what are those 15 products which has made this possible with their product details in the table and also also shown what are those 5 products that are not generating any revenue so we can discard those 10 low generating products and safely can increase the quatity of high generating products .
 - we shhould provide some evening offers so that it will help customers .
 - There is a need to eaxmine and have detail analysis of consumers so that we will understand what type of people come to our cafe to understand whats going wrong.
 
