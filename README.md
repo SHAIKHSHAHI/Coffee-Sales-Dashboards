@@ -1,6 +1,9 @@
 # Power BI Dashboard:Coffee Sales Analysis 
 ![Dashboard Screenshot](
 https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
+- **explaination :**
+- The table showing Top 15 products with their details and orderd quantity .
+- In the pie char store_location wise sales have shown from this only we have understood that it 
 
 ## Objective
 - The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
