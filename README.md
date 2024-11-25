@@ -1,7 +1,7 @@
 # Power BI Dashboard:Coffee Sales Analysis 
 ![Dashboard Screenshot](
 https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
-- **explaination :**
+- **Explaination :**
 - The table showing Top 15 products with their details and orderd quantity .
 - In the pie chart store_location wise sales have shown from this only, we have understood that Lower Manhatten has Generated Lowest Sales and needs Improvement in Performance.
 - Least earning products shown to help us to take desicion whether to continue with this products or not by showing their sales to let us understand how much exactly it is earning monthly wise and daily wise by comparing with other products to know is the difference is high ?.
@@ -36,7 +36,7 @@ This analysis addresses the following critical business questions:
    
 - ### Hourly Sales
 ![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/74dafa57967950212b7fc5a0ef6514f4b5eee1b3/hourly.png)
-- **explaination :**
+- **Explaination :**
 -  Like from the above dashboard it is clear that mostly sales are high in the morning times and in the evening it is .
 -  it may be beacause the most of the people visit to the caffe are working people and wanna have brekfast its great for us.
    
