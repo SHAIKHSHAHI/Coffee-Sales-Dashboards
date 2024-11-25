@@ -3,8 +3,8 @@
 https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
 - **explaination :**
 - The table showing Top 15 products with their details and orderd quantity .
-- In the pie char store_location wise sales have shown from this only we have understood that Lower Manhatten has Generated Lowest Sales and needs Imporement in Performance.
-- Least earning products shown to help us to take desicion whether to continue with this products or not by showing their sales to let us understand how much exactly it is earning monthly wise and daily wise by comparing with other products to know is the difference is high.
+- In the pie chart store_location wise sales have shown from this only, we have understood that Lower Manhatten has Generated Lowest Sales and needs Improvement in Performance.
+- Least earning products shown to help us to take desicion whether to continue with this products or not by showing their sales to let us understand how much exactly it is earning monthly wise and daily wise by comparing with other products to know is the difference is high ?.
  
 
 ## Objective
