@@ -5,8 +5,10 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 ## Objective
 The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
 The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
-
-![Dashboard Screenshot]
+##contents 
+###- Monthly Sales
+###- Key Insights
+![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/eabdf6c4093e6b3225e15b315f369eefcc9e8102/Monthly%20sales.png)
 5. 
 ## Questions Explored
 This analysis addresses the following critical business questions:
