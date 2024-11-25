@@ -11,7 +11,7 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 -  The dashboard explores hourly sales trends to identify peak times of customer activity, helping to optimize staffing and marketing efforts.
 -  It also examines monthly sales performance, uncovering significant fluctuations in revenue across different months, particularly highlighting peak sales periods. The analysis of store locations allows for a deeper understanding of regional performance, identifying top-performing stores and areas requiring improvements.
 -  Key business questions such as sales variation by day of the week, total revenue per location, and peak sales times are addressed through visualizations, enabling more informed decision-making. The project demonstrates how data-driven insights can empower businesses to streamline operations, enhance customer engagement, and ultimately boost sales revenue.
--  
+   
 ## Table of Contents
 -  [conclusion](#conclusion)
 -  [ Objective ](#Objective)
@@ -31,6 +31,8 @@ This analysis addresses the following critical business questions:
    
 - ### Hourly Sales
 ![Dashboard Screenshot](https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/74dafa57967950212b7fc5a0ef6514f4b5eee1b3/hourly.png)
+- **explaination**like from the above dashboard it is clear that mostly sales are high in the morning times and in the evening it is .
+
 
 - ### Monthly Sales
 - ### Key Insights
