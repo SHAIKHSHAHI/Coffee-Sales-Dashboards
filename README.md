@@ -7,7 +7,7 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 - The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
 ## Table of Contents
 -  [conclusion](#conclusion)
--  [Key_Insights](Key_Insights)
+-  [ Key Insights](#Key_Insights)
 
 
  ## Questions Explored
