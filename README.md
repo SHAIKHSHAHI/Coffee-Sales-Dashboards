@@ -22,7 +22,7 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 -  [ Objective ](#Objective)
 -  [Hourly Sales  ](#Hourly-Sales)
 -  [Monthly Sales](#Monthly-Sales)
--[ Additional Suggestions ](#Additional-Suggestions)
+- [Additional Suggestions ](#Additional-Suggestions)
  ## Questions Explored
 This analysis addresses the following critical business questions:
 1. **Are there any peak times for sales activity?**
