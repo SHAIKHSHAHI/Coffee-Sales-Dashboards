@@ -8,7 +8,8 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 ## Table of Contents
 -  [conclusion](#conclusion)
 -  [ Objective ](#Objective)
-
+-  [Hourly Sales  ](#Hourly-Sales)
+-  [ Objective ](#Objective)
 
  ## Questions Explored
 This analysis addresses the following critical business questions:
