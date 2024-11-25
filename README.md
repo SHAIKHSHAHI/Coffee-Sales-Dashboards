@@ -18,7 +18,7 @@ https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd
 -  Key business questions such as sales variation by day of the week, total revenue per location, and peak sales times are addressed through visualizations, enabling more informed decision-making. The project demonstrates how data-driven insights can empower businesses to streamline operations, enhance customer engagement, and ultimately boost sales revenue.
    
 ## Table of Contents
--  [conclusion](#conclusion)
+-  [Conclusion](#Conclusion)
 -  [ Objective ](#Objective)
 -  [Hourly Sales  ](#Hourly-Sales)
 -  [Monthly Sales](#Monthly-Sales)
