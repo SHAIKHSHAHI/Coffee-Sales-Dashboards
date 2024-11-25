@@ -1,13 +1,16 @@
-# Power BI Dashboard: Sales Analysis
-# Coffee-Sales-Analysis-Dashboard-project
+# Power BI Dashboard:Coffee Sales Analysis dashboard
+
 ## Objective
-The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. The dashboard focuses on temporal patterns, location-based performance, and overall sales trends.
+The primary objective of this project is to analyze sales data to uncover key business insights, identify trends, and help stakeholders make informed decisions. 
+The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
+
 ## Contents
 This repository includes:
 1. A comprehensive Power BI dashboard file (`.pbix`).
 2. Screenshots of key visualizations from the dashboard.
 3. SQL queries used for data cleaning and analysis.
 4. A detailed project documentation with insights and findings.
+5. 
 ## Key Questions Explored
 This analysis addresses the following critical business questions:
 1. **Are there any peak times for sales activity?**
@@ -18,9 +21,9 @@ This analysis addresses the following critical business questions:
    - Which locations generate the highest revenue, and which need improvement?
 4. **How do sales trends differ by day of the week and hour of the day?**
    - Are there specific days or times that contribute significantly to sales?
-**Peak Times for Sales Activity**
-**Sales Across Store Locations**:
-**Day and Time Trends**:
+   - 
+
+
 ## How to Use
 1. Download the dashboard file (`Sales_Analysis.pbix`) to explore the insights interactively.
 2. Review the SQL queries (`SQL_Queries.sql`) used for data preprocessing and analysis.
