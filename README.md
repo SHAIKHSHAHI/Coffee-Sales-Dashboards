@@ -1,4 +1,4 @@
-# Power BI Dashboard:Coffee Sales Analysis dashboard
+# Power BI Dashboard:Coffee Sales Analysis 
 ![Dashboard Screenshot](
 https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
 
@@ -7,13 +7,13 @@ The primary objective of this project is to analyze sales data to uncover key bu
 The dashboard focuses on temporal patterns, location-based performance, and overall sales trends varying by months and weeks or hours.
 
 ## Contents
-This repository includes:
-1. A comprehensive Power BI dashboard file (`.pbix`).
+
+.
 2. Screenshots of key visualizations from the dashboard.
 3. SQL queries used for data cleaning and analysis.
 4. A detailed project documentation with insights and findings.
 5. 
-## Key Questions Explored
+## Questions Explored
 This analysis addresses the following critical business questions:
 1. **Are there any peak times for sales activity?**
    - What are the busiest hours of the day for sales?
@@ -27,7 +27,9 @@ This analysis addresses the following critical business questions:
 
 
 ## How to Use
-1. Download the dashboard file (`Sales_Analysis.pbix`) to explore the insights interactively.
-2. Review the SQL queries (`SQL_Queries.sql`) used for data preprocessing and analysis.
-3. Refer to the screenshots folder (`Screenshots/`) for a visual overview of the dashboard.
-4. Read the insights document (`Insights.md`) for a detailed explanation of findings.
+1. Download the dashboard file (https://github.com/SHAIKHSHAHI/Coffee-Sales-Dashboards/blob/ef0591abdc0a6e17c7fd2fad5c6691c89f7b9add/powerpowerdashboard1.png)
+ to explore the insights interactively. 
+4. Read the insights section  for a detailed explanation of findings.
+
+## Conclusion
+The analysis of the sales data through the Power BI dashboard has provided valuable insights into the business's performance. By examining hourly sales, we identified key peak hours, revealing the most active times for customer purchases. Monthly sales trends highlighted significant revenue spikes during certain months, guiding future sales stratergies. Additionally, sales performance across different store locations uncovered disparities. This project demonstrates the power of data visualization in making informed, strategic business decisions.
